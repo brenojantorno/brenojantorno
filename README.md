@@ -1,0 +1,3 @@
+- Sou Desenvolvedor web full-stack, cursando bacharel em ciência da computação com mais de 3 anos de vivência de mercado e experiência em desenvolvimento de softwares para setores públicos e privados. Atuando no levantamento de requisitos, modelagem de dados, desenvolvimento do back-end, front-end, análise de impacto e sustentação as mais diversas aplicações Web-forms, MVC e API-REST. Tendo como stack principal de conhecimento o C#, CSS, HTML, Javascript, ASP.NET, ASP.NET CORE, SQL SERVER e Vue.js.
+
+- Atualmente tenho como principal foco ampliar e aprofundar meus conhecimentos em ASP.NET CORE, SQL, Machine learning, arquitetura de sistemas e principalmente Inglês.
